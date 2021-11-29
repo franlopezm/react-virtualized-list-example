@@ -1,0 +1,11 @@
+.list {
+  height: 80%;
+  max-height: 80%;
+  background-color: ivory;
+}
+
+.list-item {
+  padding: 10px 20px;
+  font-weight: 600;
+  text-align: justify;
+}
